@@ -1,3 +1,14 @@
 *
-!_output/bin
+!.git
+!api
+!cmd
+!connector
+!server
+!storage
+!scripts
+!vendor
+!version
 !web
+!Makefile
+!glide.lock
+!glide.yaml
